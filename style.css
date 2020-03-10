@@ -1,0 +1,38 @@
+body {
+  margin-left: 20px;
+  margin-right: 20px;
+  background-color: black;
+
+}
+
+h1 {
+  color: teal;
+  text-align: center;
+  font-size: 40px;
+
+}
+
+p {
+  color: teal;
+  font-size: 30px;
+
+}
+
+.TheGoodBlock {
+  display: flex;
+  padding-top: 20px;
+}
+
+.TheNotSoGoodBlock, p {
+  padding-right: 20px;
+}
+
+.TheNotSoGoodBlock{
+  display: flex;
+  
+  padding-top: 20px;
+}
+
+.TheNotSogoodBlock, p {
+  padding-left: 10px;
+}

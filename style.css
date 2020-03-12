@@ -76,6 +76,11 @@ p {
   padding: 20px;
 }
 
+figcaption {
+  text-align: center;
+  color:white;
+}
+
 .TheNotSoGoodBlock, p {
   display:flex;
   padding-left: 30px;

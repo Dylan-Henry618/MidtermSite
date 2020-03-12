@@ -107,3 +107,23 @@ figure {
   z-index: 99;
 
 }
+.DevilMayCry5{
+  color: blue;
+}
+.DMC5 {
+  position: relative;
+  display: inline-block;
+}
+
+.DMC5 .DMC5Front {
+  display: none;
+  position: absolute;
+
+}
+.DMC5:hover .DMC5Front{
+  display: inline;
+  top: 0;
+  left: 0px;
+  z-index: 99;
+
+}

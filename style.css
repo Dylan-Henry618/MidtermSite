@@ -5,6 +5,7 @@
 
 header {
   background: darkgrey;
+  text-align: center;
 }
 
 header::after {
